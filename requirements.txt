@@ -1,0 +1,25 @@
+#data handling
+pandas
+numpy
+
+#visualization
+matplotlib
+seaborn
+plotly
+
+#ml libraries
+scikit-learn
+xgboost
+lightgbm
+torch
+
+#deployement
+streamlit
+fastapi
+uvicorn
+
+#utilities
+pyyaml
+joblib
+
+-e .
